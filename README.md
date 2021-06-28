@@ -20,5 +20,5 @@ avoiding the background firing noise and allowing the detection of population bu
 The relevant data for analysis purposes can be found in the generated output_file.csv and in the variables
 percentages_units, Output_per_neurone and Experiment_summary
 
-An example file containing the recording of 20 different neurons is provided for testing
-Supplementary files with raw data used in the publication is also included in the repository.
+An example file containing the recording of 20 different neurons is provided for testing.
+Supplementary files with raw data used in the publication are also included in the repository.

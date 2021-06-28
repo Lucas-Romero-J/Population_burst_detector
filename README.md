@@ -7,8 +7,9 @@ The paper reference will be included once published.
 
 We recorded spontaneusly active neurones in an horizontal slice in vitro preparation, where we were
 able to detect coordinated activity in which several units from the recordings participated.
+We called these events population bursts.
 
-With this script this population bursts can be detected and analised using a threshold criterium.
+With this script these population bursts can be detected and analised using a threshold criterium.
 Other relevant data as the percentage of spikes falling within population bursts for each neuron,
 the spike distribution in these bursts, the approximate duration or the bursts frequenzy can also
 be extracted.

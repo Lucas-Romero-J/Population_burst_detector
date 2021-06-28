@@ -14,8 +14,8 @@ Other relevant data as the percentage of spikes falling within population bursts
 the spike distribution in these bursts, the approximate duration or the bursts frequenzy can also
 be extracted.
 
-The user experience is quite simple. Once you run the script in Matlab there will be an file selection
-window, and after visualizing the mean frequenzy distribution a horizontal threshold can be set, 
+The user experience is quite simple. Once you run the script in Matlab there will be a file selection
+window, and after visualizing the mean frequenzy distribution, a horizontal threshold can be set, 
 avoiding the background firing noise and allowing the detection of population bursts.
 
 The relevant data for analysis purposes can be found in the generated output_file.csv and in the variables
